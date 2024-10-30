@@ -6,5 +6,5 @@
 2. https://github.com/saintbyte/gigachat_api - GigaChat API на Golang
 3. https://github.com/saintbyte/salute_speech_api - Salute Speech API на Golang
 4. https://github.com/saintbyte/run_on - просто пакет с двумя фукнциями который о окружению среды узнает на каком облачном провайдере он запущен. Open for pull requests
-5. https://github.com/saintbyte/postgresURItoDSN - Решиние проблемы database_url для GORM Postgresql  
-6.
+5. https://github.com/saintbyte/postgresURItoDSN - Решение проблемы database_url для GORM Postgresql  
+6. https://github.com/saintbyte/qdrantURItoClient - Примерно тоже самое что и postgresURItoDSN только для qdrant и без gorm
