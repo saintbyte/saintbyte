@@ -11,6 +11,6 @@
   4  |  [run_on](https://github.com/saintbyte/run_on)                           | Просто пакет с двумя фукнциями который о окружению среды узнает на каком облачном провайдере он запущен.                                         |  GO           | 
   5  |  [postgresURItoDSN](https://github.com/saintbyte/postgresURItoDSN)       | Решение проблемы database_url для GORM Postgresql                                                                                                |  GO           | 
   6  |  [qdrantURItoClient](https://github.com/saintbyte/qdrantURItoClient)     | Примерно тоже самое что и postgresURItoDSN только для qdrant и без gorm                                                                          |  GO           |
-  7  |  [TimeOfDay])https://github.com/saintbyte/TimeOfDay)                     | Модуль занимается тем что алгоритмически выясняет какая часть суток по времени, позволяет моделям GPT нормально здороваться через system prompt  |  GO           |
+  7  |  [TimeOfDay](https://github.com/saintbyte/TimeOfDay)                     | Модуль занимается тем что алгоритмически выясняет какая часть суток по времени, позволяет моделям GPT нормально здороваться через system prompt  |  GO           |
 
 https://github.com/saintbyte/TimeOfDay
