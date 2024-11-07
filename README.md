@@ -13,4 +13,4 @@
   6  |  [qdrantURItoClient](https://github.com/saintbyte/qdrantURItoClient)     | Примерно тоже самое что и postgresURItoDSN только для qdrant и без gorm                                                                          |  GO           |
   7  |  [TimeOfDay](https://github.com/saintbyte/TimeOfDay)                     | Модуль занимается тем что алгоритмически выясняет какая часть суток по времени, позволяет моделям GPT нормально здороваться через system prompt  |  GO           |
 
-https://github.com/saintbyte/TimeOfDay
+
