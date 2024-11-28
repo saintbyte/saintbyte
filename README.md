@@ -12,5 +12,5 @@
   5  |  [postgresURItoDSN](https://github.com/saintbyte/postgresURItoDSN)       | Решение проблемы database_url для GORM Postgresql                                                                                                |  GO           | 
   6  |  [qdrantURItoClient](https://github.com/saintbyte/qdrantURItoClient)     | Примерно тоже самое что и postgresURItoDSN только для qdrant и без gorm                                                                          |  GO           |
   7  |  [TimeOfDay](https://github.com/saintbyte/TimeOfDay)                     | Модуль занимается тем что алгоритмически выясняет какая часть суток по времени, позволяет моделям GPT нормально здороваться через system prompt  |  GO           |
-
+  8  |  [Far Away](https://github.com/saintbyte/far-away)                       | Клон https://telegra.ph с поддержкой dark mode на уровне css и оптимизированный для запуска на https://vercal.com . Пока крайне сырой.           |  GO, js, vite | 
 
