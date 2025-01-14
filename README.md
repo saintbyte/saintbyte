@@ -1,7 +1,3 @@
-Собираю датасет: https://github.com/saintbyte/realworld_dataset_tools . 
-
-
-
  №   |   Repo                                                                   |         Описани                                                                                                                                  |Язык/Фреймворк |
 -----|:-------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
   X  |   *GO*                                                                   |  - - -                                                                                                                                           | - - -         |
@@ -13,4 +9,6 @@
   6  |  [qdrantURItoClient](https://github.com/saintbyte/qdrantURItoClient)     | Примерно тоже самое что и postgresURItoDSN только для qdrant и без gorm                                                                          |  GO           |
   7  |  [TimeOfDay](https://github.com/saintbyte/TimeOfDay)                     | Модуль занимается тем что алгоритмически выясняет какая часть суток по времени, позволяет моделям GPT нормально здороваться через system prompt  |  GO           |
   8  |  [Far Away](https://github.com/saintbyte/far-away)                       | Клон https://telegra.ph с поддержкой dark mode на уровне css и оптимизированный для запуска на https://vercal.com . Пока крайне сырой.           |  GO, js, vite | 
+  9  |  [Fusionbrain_api](https://github.com/saintbyte/fusionbrain_api)         | Библиотека для работы с API Fusionbrain.ai ( Генерация картинок нейросетью Kandinsky )                                                           |  GO           | 
 
+Собираю датасет: https://github.com/saintbyte/realworld_dataset_tools . 
