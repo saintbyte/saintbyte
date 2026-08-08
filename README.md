@@ -13,5 +13,7 @@
  10  | [heimdallr-sense](https://github.com/saintbyte/heimdallr-sense)                     | Легкая тулза для получения голоса из потока звука                                                                                                |  GO           |                                                                              
  11  | [BleVaettir](https://github.com/saintbyte/BleVaettir)                    |  Сбор данных с Ble градусников                                                                                                                   |  GO           |                                                                              
  12  | [vk_group_getter](https://github.com/saintbyte/vk_group_getter)          | Сбор постов с групп в ВК                                                                                                                         |  GO           |           
+ 13  | [s2t_gguf_server](https://github.com/saintbyte/s2t_gguf_server)          | Вебсервис для транскрибации звука в текст. Работает с [heimdallr-sense](https://github.com/saintbyte/heimdallr-sense)                            |  GO           |        
 
+ 
 Собираю датасет: https://github.com/saintbyte/realworld_dataset_tools . 
