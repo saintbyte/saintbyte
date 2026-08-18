@@ -15,5 +15,7 @@
  12  | [vk_group_getter](https://github.com/saintbyte/vk_group_getter)          | Сбор постов с групп в ВК                                                                                                                         |  GO           |           
  13  | [s2t_gguf_server](https://github.com/saintbyte/s2t_gguf_server)          | Вебсервис для транскрибации звука в текст. Работает с [heimdallr-sense](https://github.com/saintbyte/heimdallr-sense)                            |  GO           |        
  14  |  [teratts-speech-service](https://sourcecraft.dev/saintbyte/teratts-speech-service)    | Текст в голос. Портировал c python на go библиотеки teraTTS. Использовался vibeCraft                                      |  GO           |
+ 15  | [gguf_llm_runner](https://github.com/saintbyte/gguf_llm_runner)          | Запуск gguf весов LLM из golang                                                                                                                 |  GO           |
+ 
  
 Собираю датасет: https://github.com/saintbyte/realworld_dataset_tools . 
