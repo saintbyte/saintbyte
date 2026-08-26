@@ -17,5 +17,8 @@
  14  |  [teratts-speech-service](https://sourcecraft.dev/saintbyte/teratts-speech-service)    | Текст в голос. Портировал c python на go библиотеки teraTTS. Использовался vibeCraft                                      |  GO           |
  15  | [gguf_llm_runner](https://github.com/saintbyte/gguf_llm_runner)          | Запуск gguf весов LLM из golang                                                                                                                 |  GO           |
  16  | [svar-wave](https://github.com/saintbyte/svar-wave)         | Получает на вход аудио файл и играет его                                                                                                                    |  GO           |
- 
+ 17  | [obsidian_mistal_spell_checker](https://github.com/saintbyte/obsidian_mistal_spell_checker) | Плагин для проверки орфографии в obsidian. [Установка](https://community.obsidian.md/plugins/mistral-spell-checker)
+                      |  JS           |
+
+                      
 Собираю датасет: https://github.com/saintbyte/realworld_dataset_tools . 
